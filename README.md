@@ -4,7 +4,7 @@
 I am an active open-source contributor and cloud enthusiast. I love turning code into real-world solutions.
 
 * 🏆 **Contributor** @ [GirlScript Summer of Code (GSSoC)](https://gssoc.girlscript.tech/)
-* ❄️ **Contributor** @ [Winter Social of Code (WSoC)](https://swoc.tech/)
+* ❄️ **Project Admin** @ [Winter Social of Code (WSoC)](https://swoc.tech/)
 * ☁️ **Participant** @ Google Cloud Arcade Facilitator Program 2025
 
 ### 💻 Tech Stack
